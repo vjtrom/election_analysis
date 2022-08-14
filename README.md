@@ -40,9 +40,10 @@ The ***election audit analysis*** simulation models a real-world example where T
       - Winning Vote Count: 272,892
       - Winning Percentage: 73.8%
 
-The text file output appears as follows:
+The command line and text file output appears as follows:
 
-![text file](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%203.png)!
+![command line output](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%204.png)!
+![text file output](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%203.png)!
 
 ## Other Applications
 
