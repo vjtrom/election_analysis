@@ -40,6 +40,10 @@ The ***election audit analysis*** simulation models a real-world example where T
       - Winning Vote Count: 272,892
       - Winning Percentage: 73.8%
 
+The text file output appears as follows:
+
+![text file](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%203.png)!
+
 ## Other Applications
 
 The ***election audit analysis*** script has other applications beyond what we are using it for here. It can be modified to produce aggregation, calculations and insights for other types of elections and analysis. For example, by appending the election_results.CSV file with additional data fields, the script might be used to draw insights from elections that are either larger or smaller than congressional district elections. In addition, the ***election audit analysis*** could be applied to party-level affiliation or primary elections. Some of these examples are:
@@ -51,3 +55,6 @@ The ***election audit analysis*** script has other applications beyond what we a
 - **Primary elections** - The script could be modified for use in primary versus general elections. If each ballot was coded with the political party affiliation, such as Republican, Democrat or Independent, the script could be used to tally the ballots by political party in order to figure out the winners of primary elections, not just general elections. 
 
 Overall, the script is versatile and can be refactored, however, it is dependent on providing additional data in order to support these other uses.
+
+![script mod 1](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20shot%201a.png)!
+![script mod 2](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%202a.png)!
