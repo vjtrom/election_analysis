@@ -42,8 +42,9 @@ The ***election audit analysis*** simulation models a real-world example where T
 
 The command line and text file output appears as follows:
 
-![command line output](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%204.png)!
-![text file output](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%203.png)!
+![command line output](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%204.png)
+
+![text file output](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%203.png)
 
 ## Other Applications
 
@@ -57,5 +58,5 @@ The ***election audit analysis*** script has other applications beyond what we a
 
 Overall, the script is versatile and can be refactored, however, it is dependent on providing additional data in order to support these other uses.
 
-![script mod 1](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20shot%201a.png)!
-![script mod 2](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%202a.png)!
+![script mod 1](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20shot%201a.png)
+![script mod 2](https://github.com/vjtrom/election_analysis/blob/main/resources/Screen%20Shot%202a.png)
